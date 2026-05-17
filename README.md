@@ -1,5 +1,7 @@
-<img width="670" height="610" alt="agarg" src="https://github.com/user-attachments/assets/57f07b7e-02d9-41ea-9c0e-c071378d23c0" />
 # 🎵 Statistical-HitMaker
+
+
+<img width="670" height="610" alt="agarg" src="https://github.com/user-attachments/assets/57f07b7e-02d9-41ea-9c0e-c071378d23c0" />
 
 > AI-powered predictive system for analyzing global music trends and generating statistically optimized hit lyrics.
 
