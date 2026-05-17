@@ -4,8 +4,6 @@
 
 ---
 
-# 📖 Overview
-
 **Statistical-HitMaker** is an experimental AI and Machine Learning project designed to analyze worldwide music charts, lyrical structures, emotional patterns, and audience preferences in order to generate lyrics with a high statistical probability of commercial success.
 
 The system analyzes:
@@ -29,17 +27,6 @@ Using statistical analysis and AI models, Statistical-HitMaker generates and opt
 - Multi-genre support
 - AI-assisted creative optimization
 
----
-
-# 🛠️ Technologies
-
-- Python
-- Machine Learning
-- NLP (Natural Language Processing)
-- Statistical Modeling
-- AI-based Text Generation
-
----
 
 # 📬 Contact
 
@@ -49,7 +36,3 @@ For collaborations, research, business inquiries, or access requests, contact me
 
 ---
 
-# 👤 Author
-
-**Osvaldo Roscani**  
-Software Architect • AI Research Enthusiast • Predictive Systems Explorer
